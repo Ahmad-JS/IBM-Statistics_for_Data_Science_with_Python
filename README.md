@@ -1,2 +1,2 @@
-# Coursera-Course-IBM-FinalAssignment-StatisticsForDataScienceWithPython
-Housing Agency in Boston MA
+# Coursera Course IBM Statistics For Data Science With Python
+# Final Assignment
